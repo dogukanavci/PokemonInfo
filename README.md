@@ -18,6 +18,7 @@ An search app that gives knowledge about pokemons using PokeAPI
 7)When done, simply terminate from the terminal
 
 <h2>How to Use</h2>
+
 1)Simply write the pokemon's name and click the button get data
 
 2)The data about the pokemon should show up
